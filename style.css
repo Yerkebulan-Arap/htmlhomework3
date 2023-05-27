@@ -1,0 +1,21 @@
+body{
+    margin:20px 20px 20px 20px;
+    background-color: #e8f4ff;
+}
+h1{
+    text-align:center;
+    color:#3e5163;
+}
+.img1{
+    text-align: center;
+}
+img{
+    height:200px;
+    width:130px;
+}
+#text2{
+    font-style: italic;
+}
+h3{
+    color: #767e85;
+}
